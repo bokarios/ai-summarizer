@@ -13,7 +13,9 @@ const Hero = () => {
 					type="button"
 					className="black_btn"
 					onClick={() =>
-						window.open('https://github.com/bokarios')
+						window.open(
+							'https://github.com/bokarios/ai-summarizer'
+						)
 					}
 				>
 					Github
